@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+}
+
+.boton,
+.google {
+    display: inline-block;
+    background: orange;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid orange;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: lightskyblue;
+    border: 3px solid darkblue;
+}
+
+.botongris {
+    border: 2px solid gray;
+    background-color: lightgray;
+    margin-top: 30px;
+    position: relative;
+    text-decoration: none;
+    color: black;
+}
+
+.texto {
+    font-family: monospace;
+}
+
+body {
+    background-image: url("img/flornaranja.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}

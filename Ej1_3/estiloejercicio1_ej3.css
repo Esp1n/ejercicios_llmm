@@ -1,0 +1,30 @@
+caption {
+  font-style: italic;
+  margin-bottom: 4px;
+}
+
+.tabla-azul {
+  border: 2px solid blue;
+  border-spacing: 5px;
+}
+
+.tabla-azul td {
+  border: 2px solid blue;
+  padding: 12px;
+}
+
+.tabla-amarilla {
+  border-collapse: collapse;
+}
+
+.tabla-amarilla th,
+.tabla-amarilla td {
+  border: 2px solid #e0c400;
+  padding: 16px;
+  text-align: center;
+  background-color: #ddd;
+}
+
+.tabla-amarilla .verde {
+  background-color: yellowgreen;
+}

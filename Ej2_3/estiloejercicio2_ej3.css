@@ -1,0 +1,26 @@
+.bloque-gris {
+  background: rgb(131, 143, 171);
+  padding: 30px 30px 20px;
+  margin-bottom: 25px;
+  color: white;
+}
+
+.bloque-amarillo {
+  background: #e7e7b8;
+  padding: 20px 30px;
+}
+
+.resaltado1 {
+  background: hotpink;
+}
+
+.resaltado2 {
+  font-size: 20px;
+  font-family: "Impact", sans-serif;
+  border: 2px solid grey;
+}
+
+.resaltado3 {
+    font-style: italic;
+    background: white;
+}
